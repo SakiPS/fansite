@@ -239,7 +239,7 @@ aside h2 {
     transform: rotate(-3deg);
 }
 
-aside h3 { font-size: var(--h3-sm-font-size); }
+aside h3 { font-size: var(--h3-lg-font-size); }
 
 aside img { border-radius: var(--border-radious); }
 
